@@ -1,6 +1,6 @@
 # Dice Roller
 
-A new Flutter project.
+A new Flutter project. This is a very simple Flutter Project that generates random dice in each button press.
 
 ## Getting Started
 
